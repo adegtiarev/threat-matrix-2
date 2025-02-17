@@ -1,2 +1,2 @@
 [dependencies]
-atty = "0.2"
+atty = "0.2.14"
