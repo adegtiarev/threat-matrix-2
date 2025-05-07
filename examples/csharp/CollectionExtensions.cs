@@ -1,3 +1,32 @@
+/*
+*    ------ BEGIN LICENSE ATTRIBUTION ------
+*    
+*    Portions of this file have been appropriated or derived from the following project(s) and therefore require attribution to the original licenses and authors.
+*    
+*    Repository: https://github.com/aspnet/AspNetWebStack
+*    Source File: src/Common/CollectionExtensions.cs
+*    
+*    Copyrights:
+*      copyright (c) .net foundation. all rights reserved
+*    
+*    Licenses:
+*      Apache License 2.0
+*      SPDXId: Apache-2.0
+*    
+*    
+*    Source File: src/main/java/org/apache/commons/codec/binary/Base64.java
+*    
+*    Copyrights:
+*      copyright (c) 2002 kevin atkinson (kevina@gnu.org). verbatim copying
+*    
+*    Licenses:
+*      Apache License 2.0
+*      SPDXId: Apache-2.0
+*    
+*    Auto-attribution by Threatrix, Inc.
+*    
+*    ------ END LICENSE ATTRIBUTION ------
+*/
 ﻿// Copyright (c) .NET Foundation. All rights reserved.
 // Licensed under the Apache License, Version 2.0. See License.txt in the project root for license information.
 
